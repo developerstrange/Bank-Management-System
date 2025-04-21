@@ -16,11 +16,11 @@ I didn’t add any custom features — just aimed to build and learn from it as 
 - Java
 - Swing (GUI)
 - MySQL
-- IntelIJ
+- IntelliJ
 
 ## Credits
-- Tutorial followed from YouTube (add link if you want to)
-- Special thanks to the original author for sharing the tutorial
+- Thanks to Ayush Vishwakarma, brother.(https://github.com/ashuuu14)
+
 
 ---
 
